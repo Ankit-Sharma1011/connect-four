@@ -16,7 +16,7 @@
 ## Running
 ### Running `online`
 - open a browser window
-- and go to https://rededge.is-a.dev/connect-four
+- and go to https://ankit-sharma1011.github.io/connect-four/
 
 ### Running `offline`
 - go to the [releases](https://ankit-sharma1011.github.io/connect-four/releases) of this repo
