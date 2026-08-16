@@ -1,6 +1,6 @@
 # Connect Four Game
 - This is a recreation of classic Four game in html5, css3 and javascript.
-- View it [here](https://rededge.is-a.dev/connect-four).
+- View it [here](https://ankit-sharma1011.github.io/connect-four/).
 
 <p align="center">
   <img src="Logo.png" height="40%" width="40%">
@@ -19,7 +19,7 @@
 - and go to https://rededge.is-a.dev/connect-four
 
 ### Running `offline`
-- go to the [releases](https://github.com/Ankit-Sharma1011/connect-four/releases) of this repo
+- go to the [releases](https://ankit-sharma1011.github.io/connect-four/releases) of this repo
 - download the latest release
 - It will be a zip file
 - extract it
