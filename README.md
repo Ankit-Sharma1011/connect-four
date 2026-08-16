@@ -6,7 +6,7 @@
   <img src="Logo.png" height="40%" width="40%">
 </p>
 
-### 🔗 Link: https://rededge.is-a.dev/connect-four/
+### 🔗 Link: https://ankit-sharma1011.github.io/connect-four/
 
 ### Made with
 - HTML5
